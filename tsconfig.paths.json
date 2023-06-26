@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@components/*": ["components/*"],
+      "@components": ["components/index.ts"],
+      "@theme/*": ["theme/*"],
+      "@types/*": ["types/*"],
+      "@types": ["types/index.ts"]
+    }
+  }
+}
